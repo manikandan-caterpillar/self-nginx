@@ -1,5 +1,6 @@
 
-start nginx -p /Users/arumum11/nginx # Windows
+# Windows
+start nginx -p /Users/arumum11/nginx
 
 nginx -s stop -p /Users/arumum11/nginx
 

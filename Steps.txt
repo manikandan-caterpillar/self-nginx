@@ -1,0 +1,7 @@
+
+
+openssl req -x509 -nodes -days 1024 -newkey rsa:2048 -keyout localhost.key -out localhost.crt -config ssl.conf -extensions 'v3_req'
+
+cp localhost.crt /etc/ssl/certs/localhost.crt
+cp localhost.key /etc/ssl/private/localhost.key
+

@@ -1,0 +1,18 @@
+
+HTTPS on localhost with NGINX
+https://imagineer.in/blog/https-on-localhost-with-nginx
+
+Adding self trusted SSL certificate for localhost on Ubuntu(NGINX)
+https://medium.com/internshala-tech/adding-self-trusted-ssl-certificate-for-localhost-on-ubuntu-nginx-c66d70b22e4b
+
+
+
+How to manage Trusted Root Certificates in Windows 11/10
+https://www.thewindowsclub.com/manage-trusted-root-certificates-windows
+
+
+
+
+
+
+
